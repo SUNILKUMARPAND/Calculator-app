@@ -177,3 +177,6 @@ const handleSubmit = (e) => {
 9. **Tests:** Vitest for `utils/` (they are pure functions) and React Testing Library for the forms.
 10. **Internationalisation:** choose locale and currency (₹/$/€) in settings instead of the fixed `en-IN` default.
 11. **Lazy loading:** `React.lazy` for each calculator to shrink the first download.
+
+LIVE DEMO 
+URL - https://allinonecalculator-app.netlify.app/
